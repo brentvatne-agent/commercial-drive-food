@@ -18,7 +18,7 @@
       "Individual restaurant websites"
     ],
     "last_updated": "2026-03-06",
-    "total_count": 105
+    "total_count": 108
   },
   "places": [
     {
@@ -34,7 +34,8 @@
       "opening_hours": "Mo-Su 12:00-00:00",
       "osm_id": 3736867779,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Donair Dude",
@@ -49,7 +50,8 @@
       "opening_hours": "Mo-Su 10:00-03:00",
       "osm_id": 1723548153,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Megabite Pizza",
@@ -64,7 +66,8 @@
       "opening_hours": null,
       "osm_id": 1723548156,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Mr. Greek Donair Store",
@@ -79,7 +82,8 @@
       "opening_hours": null,
       "osm_id": null,
       "osm_type": null,
-      "source": "bia_website"
+      "source": "bia_website",
+      "status": "open"
     },
     {
       "name": "St Augustine's",
@@ -94,7 +98,8 @@
       "opening_hours": "Su-We 11:30-24:00, Th-Sa 11:30-01:00",
       "osm_id": 1932455897,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Jamjar Folk Lebanese Food",
@@ -109,7 +114,8 @@
       "opening_hours": "Mo-Su 11:30-22:00, Sa,Su 10:30-22:00",
       "osm_id": 5790292622,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Loku Japanese Cuisine",
@@ -124,7 +130,8 @@
       "opening_hours": "Tu-Su 12:00-15:00,17:00-21:00",
       "osm_id": 4550398247,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Rollzzy",
@@ -139,7 +146,8 @@
       "opening_hours": null,
       "osm_id": 5317244121,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "B House",
@@ -154,7 +162,8 @@
       "opening_hours": "Mo-Fr 11:30-22:00; Sa 10:00-22:00; Su 10:00-21:00",
       "osm_id": 11090665481,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Apollo's Restaurant",
@@ -169,7 +178,8 @@
       "opening_hours": null,
       "osm_id": null,
       "osm_type": null,
-      "source": "bia_website"
+      "source": "bia_website",
+      "status": "open"
     },
     {
       "name": "JJ Bean",
@@ -184,7 +194,8 @@
       "opening_hours": "Mo-Su 06:00-20:00",
       "osm_id": 292012141,
       "osm_type": "way",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Harambe",
@@ -199,7 +210,25 @@
       "opening_hours": null,
       "osm_id": 3894506201,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
+    },
+    {
+      "name": "Khaosan Thai Street Food",
+      "category": "restaurant",
+      "latitude": 49.266,
+      "longitude": -123.0694,
+      "cuisine": "thai",
+      "address": "Commercial Drive",
+      "housenumber": "2062",
+      "phone": null,
+      "website": null,
+      "opening_hours": null,
+      "osm_id": null,
+      "osm_type": null,
+      "source": "web_research",
+      "status": "opening_soon",
+      "status_note": "Expected spring 2026"
     },
     {
       "name": "Chancho Tortilleria",
@@ -214,7 +243,8 @@
       "opening_hours": "Su-Th 11:30-21:00; Fr-Sa 11:30-22:00",
       "osm_id": 292125618,
       "osm_type": "way",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Grounds for Coffee",
@@ -229,7 +259,8 @@
       "opening_hours": "Su-We 07:00-20:00; Th-Sa 07:00-21:00",
       "osm_id": 6401691542,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Elephant Garden Creamery",
@@ -244,7 +275,8 @@
       "opening_hours": null,
       "osm_id": null,
       "osm_type": null,
-      "source": "bia_website"
+      "source": "bia_website",
+      "status": "open"
     },
     {
       "name": "La Pache Pizza",
@@ -259,7 +291,8 @@
       "opening_hours": "Su 11:00-24:00; Mo-Sa 11:00-23:30",
       "osm_id": 6401691543,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Sushi Ville",
@@ -274,7 +307,8 @@
       "opening_hours": "Su-Th 11:30-23:00, Fr,Sa 11:30-24:00",
       "osm_id": 4265360390,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Hariyali Express",
@@ -289,7 +323,8 @@
       "opening_hours": "Mo-Su 12:00-23:00",
       "osm_id": 7083362226,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "The Hanoi Corner",
@@ -304,7 +339,8 @@
       "opening_hours": null,
       "osm_id": 3010625092,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Best Falafel",
@@ -319,7 +355,8 @@
       "opening_hours": "Mo-Sa 11:00-24:00, Su 11:00-23:00",
       "osm_id": 3010625091,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Kishimoto",
@@ -334,7 +371,8 @@
       "opening_hours": "Tu-Su 17:00-21:45",
       "osm_id": 3010625093,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Prado Cafe",
@@ -349,7 +387,8 @@
       "opening_hours": "Mo-Fr 07:00-20:00, Sa-Su 08:00-19:00",
       "osm_id": 1947137885,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Fire Pizza",
@@ -364,7 +403,8 @@
       "opening_hours": null,
       "osm_id": 1932452407,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Riddim & Spice",
@@ -379,7 +419,8 @@
       "opening_hours": null,
       "osm_id": 1947134559,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "4 Brothers' Pizza",
@@ -394,7 +435,8 @@
       "opening_hours": null,
       "osm_id": 1932453353,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Junior's Pub & Grill",
@@ -409,7 +451,8 @@
       "opening_hours": null,
       "osm_id": null,
       "osm_type": null,
-      "source": "bia_website"
+      "source": "bia_website",
+      "status": "open"
     },
     {
       "name": "il Mundo Cafe",
@@ -424,7 +467,8 @@
       "opening_hours": "Mo-Th 08:00-21:00; Fr-Su 08:00-22:00",
       "osm_id": 1944639570,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Belgian Fries",
@@ -439,7 +483,8 @@
       "opening_hours": "Su-Th 11:30-22:00; Fr,Sa 11:30-23:00",
       "osm_id": 1932451309,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "C&T Fried Chicken",
@@ -454,7 +499,8 @@
       "opening_hours": null,
       "osm_id": 10889503911,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Kojima Sushi",
@@ -469,7 +515,8 @@
       "opening_hours": "Mo-Sa 11:30-21:30; Su 12:00-21:00; PH 12:00-21:00",
       "osm_id": 8724367580,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Carthage Cafe",
@@ -484,7 +531,8 @@
       "opening_hours": null,
       "osm_id": 3979056492,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Pho 37",
@@ -499,7 +547,8 @@
       "opening_hours": "Mo-Su 11:00-22:00",
       "osm_id": 6578515585,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Park Drive",
@@ -514,7 +563,8 @@
       "opening_hours": "Mo-Fr 15:00-00:00; Sa-Su 12:00-00:00",
       "osm_id": 1944641265,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Social",
@@ -529,7 +579,8 @@
       "opening_hours": null,
       "osm_id": 292133819,
       "osm_type": "way",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Continental Coffee",
@@ -544,7 +595,8 @@
       "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:30-18:00; Su 07:00-18:00",
       "osm_id": 1944642914,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Sal y Limon",
@@ -559,7 +611,8 @@
       "opening_hours": null,
       "osm_id": 1944642492,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Fratelli's Italian Bakery",
@@ -574,7 +627,8 @@
       "opening_hours": "Tu-Sa 09:00-17:00; Su 09:00-16:00",
       "osm_id": 1944641670,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "COBS Bread",
@@ -589,7 +643,8 @@
       "opening_hours": "07:00-19:00",
       "osm_id": 12470710930,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Cafe Calabria",
@@ -604,7 +659,8 @@
       "opening_hours": "06:00-21:00; Dec 24 07:00-17:00; Dec 25 09:00-17:00; Dec 31 07:00-17:00; Jan 1 09:00-17:00",
       "osm_id": 292022793,
       "osm_type": "way",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Pax Romana Tapas Bar",
@@ -619,7 +675,8 @@
       "opening_hours": null,
       "osm_id": null,
       "osm_type": null,
-      "source": "bia_website"
+      "source": "bia_website",
+      "status": "open"
     },
     {
       "name": "Nonna's Italian Street Food",
@@ -634,7 +691,8 @@
       "opening_hours": "Mo-Th 16:00-23:00, Sa 11:00-24:00+, Su 11:00-22:00",
       "osm_id": 4402028857,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Red Burrito",
@@ -649,7 +707,8 @@
       "opening_hours": "Su-We 10:30-21:30; Th-Sa 10:30-22:00",
       "osm_id": 1932450607,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Nasa Bakery & Cafe",
@@ -664,7 +723,8 @@
       "opening_hours": "Mo-Th 09:00-21:00; Fr,Sa 09:00-22:00; Su 09:00-19:00",
       "osm_id": 10889503912,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "The Bench Bakehouse",
@@ -679,7 +739,8 @@
       "opening_hours": null,
       "osm_id": null,
       "osm_type": null,
-      "source": "bia_website"
+      "source": "bia_website",
+      "status": "open"
     },
     {
       "name": "SUD SOI",
@@ -694,7 +755,8 @@
       "opening_hours": null,
       "osm_id": 11415755957,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Tim Hortons",
@@ -709,7 +771,8 @@
       "opening_hours": "Mo-Su 05:00-23:00",
       "osm_id": 6429623487,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "La Mezcaleria",
@@ -724,7 +787,8 @@
       "opening_hours": "Mo-Fr 16:00-22:00+; Sa,Su 12:00-22:00+",
       "osm_id": 5192909078,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Loula's Taverna + Bar",
@@ -739,7 +803,8 @@
       "opening_hours": "Mo-Th 17:00-late; Fr-Su 17:00-later",
       "osm_id": 6848940835,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Babylon Cafe",
@@ -754,7 +819,8 @@
       "opening_hours": "Mo-Sa 11:00-22:00",
       "osm_id": 11415755956,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Belli Pizza",
@@ -769,7 +835,8 @@
       "opening_hours": null,
       "osm_id": null,
       "osm_type": null,
-      "source": "web_research"
+      "source": "web_research",
+      "status": "open"
     },
     {
       "name": "Bar Corso",
@@ -784,7 +851,8 @@
       "opening_hours": "Su-Th 17:00-late; Fr-Sa 16:00-late",
       "osm_id": 9354059697,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "The Dime",
@@ -799,7 +867,8 @@
       "opening_hours": null,
       "osm_id": 12716672445,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Arriva Ristorante",
@@ -814,7 +883,8 @@
       "opening_hours": null,
       "osm_id": 292139148,
       "osm_type": "way",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Sopra Sotto Pizzeria",
@@ -829,7 +899,8 @@
       "opening_hours": "Mo-Th 16:00-22:00; Fr-Sa 12:00-late; Su 12:00-22:00",
       "osm_id": 9332552402,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "La Grotta del Formaggio",
@@ -844,7 +915,8 @@
       "opening_hours": null,
       "osm_id": null,
       "osm_type": null,
-      "source": "bia_website"
+      "source": "bia_website",
+      "status": "open"
     },
     {
       "name": "Merci Beaucoup Cafe",
@@ -859,7 +931,8 @@
       "opening_hours": "We-Mo 10:00-20:00",
       "osm_id": 8724367575,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "The Charlatan",
@@ -874,7 +947,8 @@
       "opening_hours": "Mo-Th 11:00-25:00, Fr 11:00-26:00, Sa 10:00-26:00, Su 10:00-24:00",
       "osm_id": 11756395868,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Vera's Burger Shack",
@@ -889,7 +963,8 @@
       "opening_hours": null,
       "osm_id": 11756396373,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Cozen Sushi",
@@ -904,7 +979,8 @@
       "opening_hours": "Mo-Sa 12:00-15:30, 16:30-21:55; Su 12:00-15:30, 16:30-20:55",
       "osm_id": 3657312919,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Tandoori Palace",
@@ -919,7 +995,8 @@
       "opening_hours": null,
       "osm_id": 3657312920,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Ginger Sushi",
@@ -934,7 +1011,8 @@
       "opening_hours": "Mo-Fr 11:30-15:30, 16:30-21:35; Sa 12:00-15:30, 16:30-21:35; Su 12:00-15:30, 16:30-20:35; ",
       "osm_id": 3657310443,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Beeryani Indian Kitchen",
@@ -949,7 +1027,8 @@
       "opening_hours": "Mo-Su 10:30-21:00",
       "osm_id": 3657308018,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Aunt Jen's Pizzeria",
@@ -964,7 +1043,8 @@
       "opening_hours": "Mo 11:00-21:00; Tu-Th 11:00-23:00; Fr-Sa 11:00-25:00; Su 11:00-23:00",
       "osm_id": 3657308017,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Viet Family Restaurant",
@@ -979,7 +1059,8 @@
       "opening_hours": "Su-Th 11:30-21:00; Fr-Sa 11:00-22:00",
       "osm_id": 3659663895,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Harbour Oyster + Bar",
@@ -994,7 +1075,8 @@
       "opening_hours": "Mo-Su 11:00-17:00",
       "osm_id": 3659663894,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Marcello Woodfire Pizza Oven",
@@ -1009,7 +1091,8 @@
       "opening_hours": "Su-Th 11:00-22:00; Fr-Sa 11:00-23:00",
       "osm_id": 11756396369,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Cafe Phin Phap",
@@ -1024,7 +1107,8 @@
       "opening_hours": null,
       "osm_id": 3657308015,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Giancarlo's Italian Cafe",
@@ -1039,7 +1123,8 @@
       "opening_hours": null,
       "osm_id": null,
       "osm_type": null,
-      "source": "bia_website"
+      "source": "bia_website",
+      "status": "open"
     },
     {
       "name": "Indo-Chinese Street Wok",
@@ -1054,7 +1139,8 @@
       "opening_hours": null,
       "osm_id": null,
       "osm_type": null,
-      "source": "bia_website"
+      "source": "bia_website",
+      "status": "open"
     },
     {
       "name": "Erbil Restaurant",
@@ -1069,7 +1155,8 @@
       "opening_hours": null,
       "osm_id": null,
       "osm_type": null,
-      "source": "bia_website"
+      "source": "bia_website",
+      "status": "open"
     },
     {
       "name": "Delhi Fusion Indian Cuisine",
@@ -1084,7 +1171,8 @@
       "opening_hours": null,
       "osm_id": null,
       "osm_type": null,
-      "source": "bia_website"
+      "source": "bia_website",
+      "status": "open"
     },
     {
       "name": "Livia Forno e Vino",
@@ -1099,7 +1187,8 @@
       "opening_hours": "Tu-Su 09:00-17:00",
       "osm_id": 3870325217,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Rosemary Rocksalt",
@@ -1114,7 +1203,8 @@
       "opening_hours": "Mo-Su 07:00-19:00",
       "osm_id": 5152612546,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Cafe Du Soleil",
@@ -1129,7 +1219,8 @@
       "opening_hours": "Mo,We-Fr 08:00-03:00, PH,Sa,Su 09:00-03:00",
       "osm_id": 3870325229,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Memphis Blues",
@@ -1144,7 +1235,8 @@
       "opening_hours": "Mo-Fr 11:00-22:00; Sa-Su 12:00-22:00",
       "osm_id": 2953682906,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Caffè Soccavo",
@@ -1159,7 +1251,8 @@
       "opening_hours": "08:00-20:00",
       "osm_id": 3870325216,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Don Oso's Restaurant",
@@ -1174,7 +1267,8 @@
       "opening_hours": null,
       "osm_id": 3771324569,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Mum's the Word",
@@ -1189,7 +1283,8 @@
       "opening_hours": "Mo-Su 09:00-24:00",
       "osm_id": 9621603199,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Turk's",
@@ -1204,7 +1299,8 @@
       "opening_hours": "Mo-Th 07:00-18:00; Fr-Su 07:00-19:00",
       "osm_id": 2711740615,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Magari by Oca",
@@ -1219,7 +1315,8 @@
       "opening_hours": "We-Sa 17:00+",
       "osm_id": 1934826018,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Flamingo Room",
@@ -1234,7 +1331,8 @@
       "opening_hours": "We-Su 17:00+",
       "osm_id": 11753990543,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Havana",
@@ -1249,7 +1347,8 @@
       "opening_hours": "Mo-Fr 11:00-late; Sa-Su 10:00-late",
       "osm_id": 3579392424,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Community Taps + Pizza",
@@ -1264,7 +1363,9 @@
       "opening_hours": null,
       "osm_id": 349286379,
       "osm_type": "way",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "closed",
+      "status_note": "Replaced by Sing Sing Beer Bar (opened May 2025)"
     },
     {
       "name": "Thai Basil",
@@ -1279,7 +1380,8 @@
       "opening_hours": null,
       "osm_id": 3657019909,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Portuguese Club of Vancouver",
@@ -1294,7 +1396,8 @@
       "opening_hours": null,
       "osm_id": 291856307,
       "osm_type": "way",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Kulinarya Filipino Eatery",
@@ -1309,7 +1412,8 @@
       "opening_hours": "Tu-Th 11:00-20:00; Fr,Sa 11:00-21:00; Su 11:00-20:00",
       "osm_id": 7126942686,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "SULA Indian Restaurant",
@@ -1324,7 +1428,8 @@
       "opening_hours": null,
       "osm_id": 10889503914,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "The Drive Canteen",
@@ -1339,7 +1444,9 @@
       "opening_hours": "Mo-Su 11:00-20:00",
       "osm_id": 6711449485,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "closed",
+      "status_note": "Replaced by Chefhyve (opening early 2026)"
     },
     {
       "name": "Dante Italian Sandwich",
@@ -1354,7 +1461,8 @@
       "opening_hours": "Mo-Su 11:00-19:00",
       "osm_id": 8724367576,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Sweet Cherubim",
@@ -1369,7 +1477,8 @@
       "opening_hours": null,
       "osm_id": 1743748067,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Moja Coffee",
@@ -1384,7 +1493,8 @@
       "opening_hours": "07:00-17:00",
       "osm_id": 4682097803,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Lunch Lady",
@@ -1399,7 +1509,8 @@
       "opening_hours": "Mo-Su 11:00-21:00",
       "osm_id": 3836773457,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Bombay Kitchen and Bar",
@@ -1414,7 +1525,8 @@
       "opening_hours": null,
       "osm_id": 2651272296,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Britannia Sushi",
@@ -1429,7 +1541,8 @@
       "opening_hours": "Mo-Su 11:00-10:00",
       "osm_id": 2651272290,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Mogu Fried Chicken",
@@ -1444,7 +1557,8 @@
       "opening_hours": "Mo-Th 16:00-22:00; Fr-Su 11:30-22:00",
       "osm_id": 1247817627,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Nomo Nomo",
@@ -1459,7 +1573,42 @@
       "opening_hours": null,
       "osm_id": null,
       "osm_type": null,
-      "source": "web_research"
+      "source": "web_research",
+      "status": "open"
+    },
+    {
+      "name": "Sing Sing Beer Bar",
+      "category": "restaurant",
+      "latitude": 49.2758,
+      "longitude": -123.0697,
+      "cuisine": "pizza;pho;beer",
+      "address": "Commercial Drive",
+      "housenumber": "1191",
+      "phone": null,
+      "website": "https://www.freehouse.co/locations/sing-sing-commercial",
+      "opening_hours": null,
+      "osm_id": null,
+      "osm_type": null,
+      "source": "web_research",
+      "status": "open",
+      "status_note": "Opened May 2025, replaced Community Taps + Pizza"
+    },
+    {
+      "name": "Chefhyve",
+      "category": "restaurant",
+      "latitude": 49.2758,
+      "longitude": -123.0697,
+      "cuisine": "wraps;burgers;burritos",
+      "address": "Commercial Drive",
+      "housenumber": "1111",
+      "phone": null,
+      "website": "https://chefhyve.ca/",
+      "opening_hours": null,
+      "osm_id": null,
+      "osm_type": null,
+      "source": "web_research",
+      "status": "opening_soon",
+      "status_note": "Expected early 2026, replacing The Drive Canteen"
     },
     {
       "name": "Sunrise Pizza and Steak House",
@@ -1474,7 +1623,8 @@
       "opening_hours": "Tu-Th 16:00-22:00; Fr-Sa 16:00-23:00; Su 16:00-22:00",
       "osm_id": 1247816937,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "The London Fish",
@@ -1489,7 +1639,8 @@
       "opening_hours": "Mo-We 11:00-21:00; Fr-Sa 11:00-23:00; Su,Th 11:00-22:00",
       "osm_id": 8724367577,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Vancouver Donair",
@@ -1504,7 +1655,8 @@
       "opening_hours": "Mo-Fr 11:00-16:00",
       "osm_id": 10207736030,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Downlow Chicken Shack",
@@ -1519,7 +1671,8 @@
       "opening_hours": "Tu-Sa 11:00-21:00; Su 11:00-16:30",
       "osm_id": 7431099009,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Zawa Restaurant",
@@ -1534,7 +1687,8 @@
       "opening_hours": null,
       "osm_id": 8724367578,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Kin Kao",
@@ -1549,7 +1703,8 @@
       "opening_hours": "17:00-21:30",
       "osm_id": 11515579494,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Bump n Grind Cafe",
@@ -1564,7 +1719,8 @@
       "opening_hours": "Mo-Su 08:30-18:30",
       "osm_id": 8724367579,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Caffe La Tana",
@@ -1579,7 +1735,8 @@
       "opening_hours": "Mo-Fr 11:00-23:00; Sa-Su 10:00-23:00",
       "osm_id": 11515501588,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     },
     {
       "name": "Pepino's",
@@ -1594,7 +1751,8 @@
       "opening_hours": "17:00-22:00",
       "osm_id": 11141972840,
       "osm_type": "node",
-      "source": "openstreetmap"
+      "source": "openstreetmap",
+      "status": "open"
     }
   ]
 }
