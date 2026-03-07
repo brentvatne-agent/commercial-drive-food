@@ -18,7 +18,7 @@
       "Individual restaurant websites"
     ],
     "last_updated": "2026-03-06",
-    "total_count": 116
+    "total_count": 117
   },
   "places": [
     {
@@ -28,7 +28,7 @@
       "longitude": -123.069525,
       "cuisine": "coffee_shop",
       "address": "Commercial Drive",
-      "housenumber": "2470",
+      "housenumber": "2460",
       "phone": null,
       "website": null,
       "opening_hours": "Mo-Su 12:00-00:00",
@@ -1557,7 +1557,7 @@
       "longitude": -123.0698694,
       "cuisine": null,
       "address": "Commercial Drive",
-      "housenumber": "1109",
+      "housenumber": "1105",
       "phone": null,
       "website": null,
       "opening_hours": null,
@@ -1793,6 +1793,23 @@
       "osm_type": "node",
       "source": "openstreetmap",
       "status": "open"
+    },
+    {
+      "name": "Pizza Garden",
+      "category": "restaurant",
+      "latitude": 49.2762,
+      "longitude": -123.0697,
+      "cuisine": "pizza",
+      "address": "Commercial Drive",
+      "housenumber": "1042",
+      "phone": null,
+      "website": null,
+      "opening_hours": null,
+      "osm_id": null,
+      "osm_type": null,
+      "source": "web_research",
+      "status": "temporarily_closed",
+      "status_note": "Closed due to September 2025 fire"
     },
     {
       "name": "Downlow Chicken Shack",
