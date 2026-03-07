@@ -18,9 +18,25 @@
       "Individual restaurant websites"
     ],
     "last_updated": "2026-03-06",
-    "total_count": 117
+    "total_count": 118
   },
   "places": [
+    {
+      "name": "Green Leaf Bubble Tea",
+      "category": "cafe",
+      "latitude": 49.2625,
+      "longitude": -123.0695,
+      "cuisine": "bubble_tea",
+      "address": "Commercial Drive",
+      "housenumber": "2586",
+      "phone": null,
+      "website": null,
+      "opening_hours": null,
+      "osm_id": null,
+      "osm_type": null,
+      "source": "web_research",
+      "status": "open"
+    },
     {
       "name": "Tim Hortons",
       "category": "cafe",
