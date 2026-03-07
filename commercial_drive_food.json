@@ -18,7 +18,7 @@
       "Individual restaurant websites"
     ],
     "last_updated": "2026-03-06",
-    "total_count": 108
+    "total_count": 116
   },
   "places": [
     {
@@ -59,8 +59,8 @@
       "latitude": 49.2627682,
       "longitude": -123.0693896,
       "cuisine": "pizza",
-      "address": null,
-      "housenumber": null,
+      "address": "Commercial Drive",
+      "housenumber": "2440",
       "phone": null,
       "website": null,
       "opening_hours": null,
@@ -428,8 +428,8 @@
       "latitude": 49.2674277,
       "longitude": -123.0694229,
       "cuisine": "pizza",
-      "address": null,
-      "housenumber": null,
+      "address": "Commercial Drive",
+      "housenumber": "1914",
       "phone": null,
       "website": null,
       "opening_hours": null,
@@ -455,7 +455,7 @@
       "status": "open"
     },
     {
-      "name": "il Mundo Cafe",
+      "name": "il Mondo Cafe",
       "category": "cafe",
       "latitude": 49.2678955,
       "longitude": -123.0694386,
@@ -532,7 +532,8 @@
       "osm_id": 3979056492,
       "osm_type": "node",
       "source": "openstreetmap",
-      "status": "open"
+      "status": "closed",
+      "status_note": "Permanently closed, replaced by Indo-Chinese Street Wok"
     },
     {
       "name": "Pho 37",
@@ -599,13 +600,30 @@
       "status": "open"
     },
     {
+      "name": "Dolce Amore",
+      "category": "cafe",
+      "latitude": 49.2686,
+      "longitude": -123.0697,
+      "cuisine": "italian;gelato",
+      "address": "Commercial Drive",
+      "housenumber": "1588",
+      "phone": null,
+      "website": null,
+      "opening_hours": null,
+      "osm_id": null,
+      "osm_type": null,
+      "source": "web_research",
+      "status": "temporarily_closed",
+      "status_note": "Closed due to fire, reopening summer 2026"
+    },
+    {
       "name": "Sal y Limon",
       "category": "restaurant",
       "latitude": 49.2688079,
       "longitude": -123.0694236,
       "cuisine": null,
-      "address": null,
-      "housenumber": null,
+      "address": "Commercial Drive",
+      "housenumber": "1752",
       "phone": null,
       "website": null,
       "opening_hours": null,
@@ -709,6 +727,23 @@
       "osm_type": "node",
       "source": "openstreetmap",
       "status": "open"
+    },
+    {
+      "name": "TWK - The Lebanese Sandwich Spot",
+      "category": "fast_food",
+      "latitude": 49.2697,
+      "longitude": -123.0697,
+      "cuisine": "lebanese",
+      "address": "Commercial Drive",
+      "housenumber": "1605",
+      "phone": null,
+      "website": null,
+      "opening_hours": null,
+      "osm_id": null,
+      "osm_type": null,
+      "source": "web_research",
+      "status": "open",
+      "status_note": "Replaced Babylon Cafe"
     },
     {
       "name": "Nasa Bakery & Cafe",
@@ -820,7 +855,8 @@
       "osm_id": 11415755956,
       "osm_type": "node",
       "source": "openstreetmap",
-      "status": "open"
+      "status": "closed",
+      "status_note": "Closed, replaced by TWK - The Lebanese Sandwich Spot"
     },
     {
       "name": "Belli Pizza",
@@ -852,6 +888,22 @@
       "osm_id": 9354059697,
       "osm_type": "node",
       "source": "openstreetmap",
+      "status": "open"
+    },
+    {
+      "name": "JN&Z Deli",
+      "category": "restaurant",
+      "latitude": 49.2708,
+      "longitude": -123.0697,
+      "cuisine": "eastern_european;deli",
+      "address": "Commercial Drive",
+      "housenumber": "1729",
+      "phone": null,
+      "website": null,
+      "opening_hours": null,
+      "osm_id": null,
+      "osm_type": null,
+      "source": "web_research",
       "status": "open"
     },
     {
@@ -1268,7 +1320,8 @@
       "osm_id": 3771324569,
       "osm_type": "node",
       "source": "openstreetmap",
-      "status": "open"
+      "status": "closed",
+      "status_note": "Closed January 2025, space vacant"
     },
     {
       "name": "Mum's the Word",
@@ -1284,6 +1337,22 @@
       "osm_id": 9621603199,
       "osm_type": "node",
       "source": "openstreetmap",
+      "status": "open"
+    },
+    {
+      "name": "Paris Bakery",
+      "category": "bakery",
+      "latitude": 49.273,
+      "longitude": -123.0697,
+      "cuisine": "vietnamese;bakery",
+      "address": "Commercial Drive",
+      "housenumber": "1403",
+      "phone": null,
+      "website": null,
+      "opening_hours": null,
+      "osm_id": null,
+      "osm_type": null,
+      "source": "web_research",
       "status": "open"
     },
     {
@@ -1366,6 +1435,23 @@
       "source": "openstreetmap",
       "status": "closed",
       "status_note": "Replaced by Sing Sing Beer Bar (opened May 2025)"
+    },
+    {
+      "name": "Violete",
+      "category": "restaurant",
+      "latitude": 49.2741,
+      "longitude": -123.0697,
+      "cuisine": "italian;pasta;pizza",
+      "address": "Commercial Drive",
+      "housenumber": "1380",
+      "phone": null,
+      "website": null,
+      "opening_hours": null,
+      "osm_id": null,
+      "osm_type": null,
+      "source": "web_research",
+      "status": "opening_soon",
+      "status_note": "Replacing Famoso Pizzeria, expected 2026"
     },
     {
       "name": "Thai Basil",
@@ -1513,6 +1599,23 @@
       "status": "open"
     },
     {
+      "name": "Skewers Souvlaki",
+      "category": "fast_food",
+      "latitude": 49.275,
+      "longitude": -123.0697,
+      "cuisine": "greek",
+      "address": "Commercial Drive",
+      "housenumber": null,
+      "phone": null,
+      "website": null,
+      "opening_hours": null,
+      "osm_id": null,
+      "osm_type": null,
+      "source": "web_research",
+      "status": "open",
+      "status_note": "Opened 2025"
+    },
+    {
       "name": "Bombay Kitchen and Bar",
       "category": "restaurant",
       "latitude": 49.2753733,
@@ -1577,6 +1680,22 @@
       "status": "open"
     },
     {
+      "name": "Absinthe Bistro",
+      "category": "restaurant",
+      "latitude": 49.2757,
+      "longitude": -123.0697,
+      "cuisine": "french",
+      "address": "Commercial Drive",
+      "housenumber": "952",
+      "phone": null,
+      "website": null,
+      "opening_hours": null,
+      "osm_id": null,
+      "osm_type": null,
+      "source": "web_research",
+      "status": "open"
+    },
+    {
       "name": "Sing Sing Beer Bar",
       "category": "restaurant",
       "latitude": 49.2758,
@@ -1625,6 +1744,23 @@
       "osm_type": "node",
       "source": "openstreetmap",
       "status": "open"
+    },
+    {
+      "name": "Sake Maki",
+      "category": "restaurant",
+      "latitude": 49.276,
+      "longitude": -123.0697,
+      "cuisine": "japanese",
+      "address": "Commercial Drive",
+      "housenumber": "1108",
+      "phone": null,
+      "website": null,
+      "opening_hours": null,
+      "osm_id": null,
+      "osm_type": null,
+      "source": "web_research",
+      "status": "open",
+      "status_note": "Reopened May 2025"
     },
     {
       "name": "The London Fish",
